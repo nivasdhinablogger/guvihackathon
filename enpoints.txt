@@ -1,0 +1,9 @@
+Fetching list of Pokemon
+        https://pokeapi.co/api/v2/pokemon/
+        "https://pokeapi.co/api/v2/ability/?limit=20&offset=20"
+
+
+Images fetched from 
+        https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/${pokemonIndex}.png
+
+
