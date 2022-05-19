@@ -24,7 +24,7 @@ async function fetchPokeData(pokemon){
             throw new Error(`HTTP error: ${response.status}`);
         }
             let response =await data.json();
-            console.log(response.abilities);
+            console.log(response);
             
 
     } catch (error) {
